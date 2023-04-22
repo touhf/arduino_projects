@@ -1,0 +1,1 @@
+![picture](./passive_buzzer.jpg)
